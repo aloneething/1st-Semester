@@ -1,0 +1,11 @@
+Sr.No    Name                Items                    Price_Per_piece          Total_Price
+Kalear 17 123
+Chipus 0 40
+Black_Bebber 0 400
+Dai_Phallay 10 250
+Mango 56 100
+Lolipop 98 20
+Afghani_Zinger 498 50
+Biscut 800 100
+Kabootar 50 500
+Orange_Juice 76 150

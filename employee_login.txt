@@ -1,0 +1,7 @@
+Sr.No    Email                    Password
+e1@isb.nu.edu.pk pass1
+e2@isb.nu.edu.pk pass2
+e3@isb.nu.edu.pk pass3
+e4@isb.nu.edu.pk pass4
+e5@isb.nu.edu.pk pass5
+talha 123

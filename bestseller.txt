@@ -1,0 +1,7 @@
+Sr.No    Email                    Points
+e1@isb.nu.edu.pk 14
+e2@isb.nu.edu.pk 8
+e3@isb.nu.edu.pk 18
+e4@isb.nu.edu.pk 2
+e5@isb.nu.edu.pk 6
+talha 30

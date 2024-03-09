@@ -1,0 +1,29 @@
+
+[1;47;30mfurqan[0m came and ordered: 
+
+> 14 pieces of Afghani_Zinger
+> 2 pieces of Biscut
+
+Time of delivery: 1 PM
+Total amount: Rs. 900
+ 
+[1;47;30mtalha[0m came and ordered: 
+
+Nothing.
+
+
+[1;47;30mhassaan[0m came and ordered: 
+
+> 1 pieces of Orange_Juice
+
+Time of delivery: 3 AM
+Total amount: Rs. 150
+ 
+[1;47;30mfurqan[0m came and ordered: 
+
+> 8 pieces of Biscut
+> 1 pieces of Orange_Juice
+
+Time of delivery: 9 PM
+Total amount: Rs. 950
+ 
